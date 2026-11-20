@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Alu de 4 bits
 
 ## How to test
 
-Explain how to use your project
+con el archivo tb.fst
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+fuente de voltaje, osciloscopio, etc
